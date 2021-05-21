@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Amish Gupta
 
-<!--
-**amish1498/amish1498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<p align="left"><img src="https://komarev.com/ghpvc/?username=amish1498" alt="/amish1498"/><br>
+<a href="https://github.com/amish1498">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amish1498&theme=dark&hide_langs_below=1" height="290px"/>
+</a>
+  
+<a href="https://github.com/amish1498">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=amish1498&show_icons=true&theme=dark&line_height=27" height="290px" alt="My GitHub Stats" height="220px" />
+</a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amish1498&theme=dark" height="290px" alt="amish1498" /></p>
+</div>
